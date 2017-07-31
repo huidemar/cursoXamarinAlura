@@ -12,10 +12,12 @@ namespace App1.Views
 	[XamlCompilation(XamlCompilationOptions.Compile)]
 	public partial class AgendamentoView : ContentPage
 	{
-		public AgendamentoView (Veiculo veiculo)
+        public Veiculo Veiculo { get; private set; }
+        public AgendamentoView (Veiculo veiculo)
 		{
 			InitializeComponent ();
-            this.Title = veiculo.Nome;
+            Veiculo = veiculo;
+            this.BindingContext = this;
 		}
 	}
 }

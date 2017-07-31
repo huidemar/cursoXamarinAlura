@@ -15,10 +15,10 @@ namespace App1.Views
         public Veiculo Veiculo { get; private set; }
         public DetalheView (Veiculo veiculo)
 		{
-			InitializeComponent ();
-            this.Title = veiculo.Nome;
+			InitializeComponent ();            
             Veiculo = veiculo;
-		}
+            this.BindingContext = this;
+        }
 
         private void buttonProximo_Clicked(object sender, EventArgs e)
         {

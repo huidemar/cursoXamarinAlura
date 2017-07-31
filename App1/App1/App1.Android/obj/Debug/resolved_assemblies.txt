@@ -21,14 +21,14 @@ C:\projetos\xamarin\xamarinAlura\cursoXamarinAlura\App1\App1\App1.Android\obj\De
 C:\projetos\xamarin\xamarinAlura\cursoXamarinAlura\App1\App1\App1.Android\obj\Debug\android\assets\System.Xml.Linq.dll
 C:\projetos\xamarin\xamarinAlura\cursoXamarinAlura\App1\App1\App1.Android\obj\Debug\android\assets\System.Runtime.dll
 C:\projetos\xamarin\xamarinAlura\cursoXamarinAlura\App1\App1\App1.Android\obj\Debug\android\assets\System.ComponentModel.Composition.dll
+C:\projetos\xamarin\xamarinAlura\cursoXamarinAlura\App1\App1\App1.Android\obj\Debug\android\assets\System.ComponentModel.dll
+C:\projetos\xamarin\xamarinAlura\cursoXamarinAlura\App1\App1\App1.Android\obj\Debug\android\assets\System.Xml.ReaderWriter.dll
+C:\projetos\xamarin\xamarinAlura\cursoXamarinAlura\App1\App1\App1.Android\obj\Debug\android\assets\System.Reflection.dll
 C:\projetos\xamarin\xamarinAlura\cursoXamarinAlura\App1\App1\App1.Android\obj\Debug\android\assets\System.Collections.dll
 C:\projetos\xamarin\xamarinAlura\cursoXamarinAlura\App1\App1\App1.Android\obj\Debug\android\assets\System.Diagnostics.Debug.dll
 C:\projetos\xamarin\xamarinAlura\cursoXamarinAlura\App1\App1\App1.Android\obj\Debug\android\assets\System.Threading.Tasks.dll
 C:\projetos\xamarin\xamarinAlura\cursoXamarinAlura\App1\App1\App1.Android\obj\Debug\android\assets\System.ObjectModel.dll
 C:\projetos\xamarin\xamarinAlura\cursoXamarinAlura\App1\App1\App1.Android\obj\Debug\android\assets\System.Globalization.dll
-C:\projetos\xamarin\xamarinAlura\cursoXamarinAlura\App1\App1\App1.Android\obj\Debug\android\assets\System.ComponentModel.dll
-C:\projetos\xamarin\xamarinAlura\cursoXamarinAlura\App1\App1\App1.Android\obj\Debug\android\assets\System.Xml.ReaderWriter.dll
-C:\projetos\xamarin\xamarinAlura\cursoXamarinAlura\App1\App1\App1.Android\obj\Debug\android\assets\System.Reflection.dll
 C:\projetos\xamarin\xamarinAlura\cursoXamarinAlura\App1\App1\App1.Android\obj\Debug\android\assets\System.Linq.Expressions.dll
 C:\projetos\xamarin\xamarinAlura\cursoXamarinAlura\App1\App1\App1.Android\obj\Debug\android\assets\System.IO.dll
 C:\projetos\xamarin\xamarinAlura\cursoXamarinAlura\App1\App1\App1.Android\obj\Debug\android\assets\System.Dynamic.Runtime.dll
